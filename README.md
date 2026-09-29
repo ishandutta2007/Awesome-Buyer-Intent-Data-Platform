@@ -25,6 +25,7 @@ Buyer intent platforms aggregate web-wide behavioral signals — content consump
 - [🔓 Open-Source GitHub Projects & Frameworks](#-open-source-github-projects--frameworks)
 - [🛠️ Frameworks for Custom Intent Engines](#-frameworks-for-custom-intent-engines)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 - [📈 Star History](#-star-history)
 
@@ -95,6 +96,16 @@ Contributions are highly appreciated! To add a new platform or repository:
 2. 📝 **Add/update** entries in `README.md` following the tabular layout.
 3. 🔗 Include accurate links, pricing structure, valuation/star count, and clear descriptions.
 4. 🚀 **Submit a Pull Request** with a brief context summary.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting and supporting this ecosystem directory! If you find this resource helpful for your Go-To-Market strategy, software development, or research, please consider supporting the project:
+
+- 🌟 **Star this repository** to help others discover it on GitHub.
+- 🍴 **Fork & Share** with your colleagues, RevOps teams, and GTM engineers.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance and curated updates via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
