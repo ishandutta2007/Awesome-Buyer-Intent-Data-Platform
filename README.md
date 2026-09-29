@@ -56,7 +56,7 @@ Below is a structured comparison of leading commercial buyer intent data and rev
 
 Explore active open-source repositories for building self-hosted intent scoring, customer data pipelines, visitor tracking, and lead prioritization. 
 
-Sorted by **GitHub Stars_Count (Descending)** 🌟:
+Sorted by **GitHub_Stars_Count (Descending)** 🌟:
 
 | Repository 📦 | GitHub_Stars ⭐ | Primary Stack 💻 | Focus Area 🎯 | Key Features & Architecture ⚡ |
 | :--- | :--- | :--- | :--- | :--- |
